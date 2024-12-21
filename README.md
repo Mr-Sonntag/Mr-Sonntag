@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a test!
+## ⚡ Welcome to my Github profile! Please feel free to look through my projects. ⚡
+
+## 🌱 I'm currently a student at Temple University, working towards my Bachelors of Science, Data Science degree!
+## 🔭 I'm an aspiring engineer looking forward to aiding the bright future of AI.
+## 💬 I'm always open ears to any advice someone might have for me or open to discuss anything!
+## 👯 I'm eager for work and experience to start making the world a better place with AI!
